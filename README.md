@@ -1,1 +1,2 @@
 # embodied_agent
+基于Qwen3-VL与LangGraph的具身智能任务规划系统
